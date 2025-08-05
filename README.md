@@ -17,23 +17,21 @@
 ## 🛠️ Tecnologias (stack prevista)
 
 ### Frontend
-- React (ou Next.js)
+- Angular 19
 - TailwindCSS
-- Zustand ou Redux (gerenciamento de estado)
-- Axios / SWR para API
+- PrimeNG
 
 ### Backend
-- Node.js + Express (ou Nest.js)
-- PostgreSQL (via Prisma)
+- Node.js + Express
+- PostgreSQL
 - Autenticação (JWT ou OAuth)
-- REST ou GraphQL API
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 ```
-/frontend     → Interface do usuário (React)
+/frontend     → Interface do usuário (Angular)
 /backend      → API e lógica de negócio (Node/Express)
 /docs         → Documentação técnica e wireframes
 ```
